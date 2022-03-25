@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 10px;
+}
+.navigation a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
+}
+.navigation a:hover {
+  background-color: aqua;
+  color: black;
+}

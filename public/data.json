@@ -1,0 +1,62 @@
+[
+    {
+      "id": "623dab9f4ed66b0453ac82e6",
+      "balance": "$2,019.22",
+      "picture": "http://placehold.it/32x32",
+      "age": 27,
+      "eyeColor": "brown",
+      "name": "Walter Cannon",
+      "gender": "male",
+      "company": "RECOGNIA",
+      "email": "waltercannon@recognia.com",
+      "phone": "+1 (957) 400-2036"
+    },
+    {
+      "id": "623dab9f4cf130e95912fe48",
+      "balance": "$2,485.49",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "eyeColor": "blue",
+      "name": "Beverly Acevedo",
+      "gender": "female",
+      "company": "NEPTIDE",
+      "email": "beverlyacevedo@neptide.com",
+      "phone": "+1 (850) 455-3197"
+    },
+    {
+      "id": "623dab9f2011266c95d58bba",
+      "balance": "$3,053.28",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "blue",
+      "name": "Mejia Ware",
+      "gender": "male",
+      "company": "QNEKT",
+      "email": "mejiaware@qnekt.com",
+      "phone": "+1 (949) 446-2900"
+    },
+    {
+      "id": "623dab9f654f473db6e59f61",
+      "balance": "$3,660.88",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "blue",
+      "name": "Shirley Hubbard",
+      "gender": "female",
+      "company": "ZANITY",
+      "email": "shirleyhubbard@zanity.com",
+      "phone": "+1 (830) 563-2958"
+    },
+    {
+      "id": "623dab9f978373d9155d39e9",
+      "balance": "$3,226.93",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "blue",
+      "name": "Rodriquez Maldonado",
+      "gender": "male",
+      "company": "COMTRAK",
+      "email": "rodriquezmaldonado@comtrak.com",
+      "phone": "+1 (918) 526-3333"
+    }
+  ]
